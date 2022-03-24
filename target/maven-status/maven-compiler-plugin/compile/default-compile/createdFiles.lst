@@ -1,0 +1,6 @@
+com\product\model\Product.class
+com\product\utility\JdbcUtility.class
+com\product\queries\Queries.class
+com\product\Main.class
+com\product\dto\ProductDto.class
+com\product\exceptions\ProductException.class

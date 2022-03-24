@@ -1,0 +1,89 @@
+2022-03-21-main-INFO -com.product.Main:log file loaded
+2022-03-21-main-INFO -com.product.dto.ProductDto:in insert product
+2022-03-21-main-DEBUG-com.product.utility.JdbcUtility:class loaded
+2022-03-21-main-ERROR-com.product.utility.JdbcUtility:Database Error !!
+2022-03-21-main-ERROR-com.product.Main:Database Error !!
+2022-03-21-main-INFO -com.product.Main:log file loaded
+2022-03-21-main-INFO -com.product.dto.ProductDto:in insert product
+2022-03-21-main-DEBUG-com.product.utility.JdbcUtility:class loaded
+2022-03-21-main-ERROR-com.product.utility.JdbcUtility:Database Error !!
+2022-03-21-main-ERROR-com.product.Main:Database Error !!
+2022-03-21-com.product.Main.main()-INFO -com.product.Main:log file loaded
+2022-03-21-com.product.Main.main()-INFO -com.product.dto.ProductDto:in insert product
+2022-03-21-com.product.Main.main()-DEBUG-com.product.utility.JdbcUtility:class loaded
+2022-03-21-com.product.Main.main()-DEBUG-com.product.utility.JdbcUtility:connected
+2022-03-21-com.product.Main.main()-INFO -com.product.utility.JdbcUtility:conenction object created
+2022-03-21-com.product.Main.main()-INFO -com.product.dto.ProductDto:1 records inserted..
+2022-03-21-com.product.Main.main()-INFO -com.product.utility.JdbcUtility:conenction object created
+2022-03-21-main-INFO -com.product.Main:log file loaded
+2022-03-21-main-INFO -com.product.dto.ProductDto:in insert product
+2022-03-21-main-DEBUG-com.product.utility.JdbcUtility:class loaded
+2022-03-21-main-DEBUG-com.product.utility.JdbcUtility:connected
+2022-03-21-main-INFO -com.product.utility.JdbcUtility:conenction object created
+2022-03-21-main-ERROR-com.product.dto.ProductDto:problem in creating prepared statement object
+2022-03-21-main-ERROR-com.product.Main:problem in creating prepared statement object
+2022-03-21-com.product.Main.main()-INFO -com.product.Main:log file loaded
+2022-03-21-com.product.Main.main()-INFO -com.product.dto.ProductDto:in insert product
+2022-03-21-com.product.Main.main()-DEBUG-com.product.utility.JdbcUtility:class loaded
+2022-03-21-com.product.Main.main()-DEBUG-com.product.utility.JdbcUtility:connected
+2022-03-21-com.product.Main.main()-INFO -com.product.utility.JdbcUtility:conenction object created
+2022-03-21-com.product.Main.main()-ERROR-com.product.dto.ProductDto:problem in creating prepared statement object
+2022-03-21-com.product.Main.main()-ERROR-com.product.Main:problem in creating prepared statement object
+2022-03-21-com.product.Main.main()-INFO -com.product.Main:log file loaded
+2022-03-21-com.product.Main.main()-INFO -com.product.dto.ProductDto:in insert product
+2022-03-21-com.product.Main.main()-DEBUG-com.product.utility.JdbcUtility:class loaded
+2022-03-21-com.product.Main.main()-DEBUG-com.product.utility.JdbcUtility:connected
+2022-03-21-com.product.Main.main()-INFO -com.product.utility.JdbcUtility:conenction object created
+2022-03-21-com.product.Main.main()-ERROR-com.product.dto.ProductDto:problem in creating prepared statement object
+2022-03-21-com.product.Main.main()-ERROR-com.product.Main:problem in creating prepared statement object
+2022-03-21-com.product.Main.main()-INFO -com.product.Main:log file loaded
+2022-03-21-com.product.Main.main()-INFO -com.product.dto.ProductDto:in insert product
+2022-03-21-com.product.Main.main()-DEBUG-com.product.utility.JdbcUtility:class loaded
+2022-03-21-com.product.Main.main()-DEBUG-com.product.utility.JdbcUtility:connected
+2022-03-21-com.product.Main.main()-INFO -com.product.utility.JdbcUtility:conenction object created
+2022-03-21-com.product.Main.main()-ERROR-com.product.dto.ProductDto:problem in creating prepared statement object
+2022-03-21-com.product.Main.main()-ERROR-com.product.Main:problem in creating prepared statement object
+2022-03-21-com.product.Main.main()-INFO -com.product.Main:log file loaded
+2022-03-21-com.product.Main.main()-INFO -com.product.dto.ProductDto:in insert product
+2022-03-21-com.product.Main.main()-DEBUG-com.product.utility.JdbcUtility:class loaded
+2022-03-21-com.product.Main.main()-DEBUG-com.product.utility.JdbcUtility:connected
+2022-03-21-com.product.Main.main()-INFO -com.product.utility.JdbcUtility:conenction object created
+2022-03-21-com.product.Main.main()-ERROR-com.product.dto.ProductDto:problem in creating prepared statement object
+2022-03-21-com.product.Main.main()-ERROR-com.product.Main:problem in creating prepared statement object
+2022-03-21-com.product.Main.main()-INFO -com.product.Main:log file loaded
+2022-03-21-com.product.Main.main()-INFO -com.product.dto.ProductDto:in insert product
+2022-03-21-com.product.Main.main()-DEBUG-com.product.utility.JdbcUtility:class loaded
+2022-03-21-com.product.Main.main()-DEBUG-com.product.utility.JdbcUtility:connected
+2022-03-21-com.product.Main.main()-INFO -com.product.utility.JdbcUtility:conenction object created
+2022-03-21-com.product.Main.main()-ERROR-com.product.dto.ProductDto:problem in creating prepared statement object in insert method
+2022-03-21-com.product.Main.main()-ERROR-com.product.Main:problem in creating prepared statement object in insert method
+2022-03-21-com.product.Main.main()-INFO -com.product.Main:log file loaded
+2022-03-21-com.product.Main.main()-INFO -com.product.dto.ProductDto:in insert product
+2022-03-21-com.product.Main.main()-DEBUG-com.product.utility.JdbcUtility:class loaded
+2022-03-21-com.product.Main.main()-DEBUG-com.product.utility.JdbcUtility:connected
+2022-03-21-com.product.Main.main()-INFO -com.product.utility.JdbcUtility:conenction object created
+2022-03-21-com.product.Main.main()-INFO -com.product.dto.ProductDto:1 records inserted..
+2022-03-21-com.product.Main.main()-INFO -com.product.utility.JdbcUtility:conenction object created
+2022-03-21-com.product.Main.main()-INFO -com.product.Main:log file loaded
+2022-03-21-com.product.Main.main()-INFO -com.product.dto.ProductDto:in insert product
+2022-03-21-com.product.Main.main()-DEBUG-com.product.utility.JdbcUtility:class loaded
+2022-03-21-com.product.Main.main()-DEBUG-com.product.utility.JdbcUtility:connected
+2022-03-21-com.product.Main.main()-INFO -com.product.utility.JdbcUtility:conenction object created
+2022-03-21-com.product.Main.main()-INFO -com.product.dto.ProductDto:1 records inserted..
+2022-03-21-com.product.Main.main()-INFO -com.product.utility.JdbcUtility:conenction object created
+2022-03-21-com.product.Main.main()-INFO -com.product.Main:log file loaded
+2022-03-21-com.product.Main.main()-DEBUG-com.product.utility.JdbcUtility:class loaded
+2022-03-21-com.product.Main.main()-DEBUG-com.product.utility.JdbcUtility:connected
+2022-03-21-com.product.Main.main()-INFO -com.product.utility.JdbcUtility:conenction object created
+2022-03-21-com.product.Main.main()-INFO -com.product.utility.JdbcUtility:conenction object created
+2022-03-21-com.product.Main.main()-INFO -com.product.Main:log file loaded
+2022-03-21-com.product.Main.main()-DEBUG-com.product.utility.JdbcUtility:class loaded
+2022-03-21-com.product.Main.main()-DEBUG-com.product.utility.JdbcUtility:connected
+2022-03-21-com.product.Main.main()-INFO -com.product.utility.JdbcUtility:conenction object created
+2022-03-21-com.product.Main.main()-INFO -com.product.utility.JdbcUtility:conenction object created
+2022-03-21-com.product.Main.main()-INFO -com.product.Main:log file loaded
+2022-03-21-com.product.Main.main()-INFO -com.product.dto.ProductDto:Update method loaded
+2022-03-21-com.product.Main.main()-DEBUG-com.product.utility.JdbcUtility:class loaded
+2022-03-21-com.product.Main.main()-DEBUG-com.product.utility.JdbcUtility:connected
+2022-03-21-com.product.Main.main()-INFO -com.product.utility.JdbcUtility:conenction object created
+2022-03-21-com.product.Main.main()-INFO -com.product.utility.JdbcUtility:conenction object created
